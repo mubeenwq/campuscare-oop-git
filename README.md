@@ -10,3 +10,7 @@ This is a console-based Java application for managing campus complaints.
 
 ## How to Run
 Run Main.java file.
+
+## Student Information
+Name: Mubeen Zaman <br>
+SapId: 61586
